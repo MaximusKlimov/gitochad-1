@@ -15,3 +15,10 @@
 
 ![hahahaha_cats](https://media.discordapp.net/attachments/578221595194294335/1047486691696447558/unknown.png?width=477&height=473)
 
+<<<<<<< HEAD
+=======
+Давайте внесем изменения на клоне от Николая)
+
+
+Конец
+>>>>>>> 7720ad69f654f6b1d35245e02cb475255e8844f9
